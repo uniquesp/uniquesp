@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uniquesp
 - 👀 I’m interested in Java and Frontend Web Development
 - 🌱 I’m currently learning Data Structure and Algorithm
-- 💞️ I’m looking to collaborate on Mysql and Web Development
+- 💞️ I’m looking to collaborate on Mysql and Web Development and PHP
 - 📫 How to reach me : MailID : sakshisp1342002@gmail.com
 
 <!---
