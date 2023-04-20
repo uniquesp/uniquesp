@@ -1,6 +1,6 @@
 <h2 align='center'> Hello Jovenes</h2>
 
-<p>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp)</p>
+[Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp)
 
  About Me:
 - 🏦 I'm MERN Stack Developer.
