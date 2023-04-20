@@ -1,6 +1,6 @@
-<h2 align='center'> Hello Jovenes</h2>
+<h2 align='center'> ✨Hello Jovenes✨</h2>
 
-[Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp)
 
  About Me:
 - 🏦 I'm MERN Stack Developer.
@@ -8,10 +8,11 @@
 - 📝 I’m currently learning Data Structure and Algorithm from Coding Ninjas
 - 💻 I use daily: **.js**, **.java**, **.sql**
 - 👀 I am intrested in Devops.
-- 📖 I love to read and write thoughts, owner of page @youva_comrades on Instagram
+- 📖 I love to read and write thoughts, owner of page **@youva_comrades** [Instagram](https://www.instagram.com/youva_comrades/)
 - 💬 Talk to me about South Movies, Stories Poems & startups
 - 👯 We can connect to play some games of Chess ♟
-- ✨ Fun fact: 
+- 🎨 Painting is Life 
+- ✨ Fun fact: You are the one Who Knows you Best!!
 - 💻 Tech I work on :
 
 <p align="center">
