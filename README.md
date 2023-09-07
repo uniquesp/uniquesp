@@ -27,8 +27,9 @@
 </p>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&" alt="uniquesp">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&" alt="uniquesp" /></p>
+</p>
 
 
 
