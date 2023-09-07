@@ -27,8 +27,7 @@
 </p>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=uniquesp&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquesp&hide=TeX&layout=compact)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&" alt="uniquesp" /></p>
 
 
