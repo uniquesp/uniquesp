@@ -3,7 +3,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp)
 
  About Me:
-- 🏦 I'm MERN Stack Developer.
+- 🏦 I'm software Developer.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I’m currently learning Data Structure and Algorithm from Coding Ninjas
 - 💻 I use daily: **.js**, **.java**, **.sql**
