@@ -27,19 +27,14 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&" alt="uniquesp">
-
-</p>
-
-
                                                         🏆 My Github Stats 🏆
 
-<!--
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=uniquesp&show_icons=true&theme=radical"></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp"> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniquesp&langs_count=10"> </p>
--->
 
+<!--
 <table>
       <thead>
             <tr>
@@ -53,7 +48,7 @@
       </thead>
 </table>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniquesp&langs_count=10"> </p>
-
+-->
 
 
 <!--uniquesp/uniquesp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
