@@ -19,23 +19,32 @@
 ## Technologies
  
 <table>
-<tr>
-	<td><strong>Web Development</strong></td>
-	<td><strong>Languages</strong></td>
-</tr>
-<tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,firebase,mongodb" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=java,python,c++&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Cybersecurity&Cloud</strong></td>
-	<td><strong>Tools</strong></td>
-</tr>
-<tr>
-	<td><img src = "https://skillicons.dev/icons?i=linux,AWS,docker,kubernetes,&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=git,vscode,eclipseide,github,githubactions&theme=dark"></td>
-</tr>
+  <tr>
+    <td><strong>Web Development</strong></td>
+    <td><strong>Languages</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap"></td>
+    <td><img src="https://skillicons.dev/icons?i=java,javascript,cpp,python&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td><strong>Tools</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=spring,express,react,nodejs,nextjs"></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>Cloud Tech</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker&theme=dark"></td>
+    <td></td>
+  </tr>
 </table>
+
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
