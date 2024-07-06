@@ -29,14 +29,17 @@
                                  
  <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uniquesp&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
-</p>
+ <table>
+    <thead>
+      <tr>
+        <th>
+          <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=uniquesp&show_icons=true&theme=chartreuse-dark"></p>
+        </th>
+        <th>
+          <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&layout=compact&theme=chartreuse-dark"></p>
+        </th>
+      </tr>
+    </thead>
+  </table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&layout=compact&theme=chartreuse-dark" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniquesp&&theme=chartreuse-dark" alt="Top Languages Used">
-</p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniquesp&&theme=chartreuse-dark"></p>
