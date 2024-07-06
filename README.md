@@ -2,6 +2,8 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp)
 
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>       
+
  About Me:
 - 🏦 I'm software Developer.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -48,7 +50,12 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-                                 
+## Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=uniquesp-code&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>         
+
+
  <h2 align="center">📊 GitHub Stats</h2>
 
  <table>
