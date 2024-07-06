@@ -13,18 +13,31 @@
 - 👯 We can connect to play some games of Chess ♟
 - 🎨 Painting is Life 
 - ✨ Fun fact: You are the one Who Knows you Best!!
-- 💻 Tech I work on :
 
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Reactjs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-</p>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+
+## Technologies
+ 
+<table>
+<tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Languages</strong></td>
+</tr>
+<tr>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,firebase,mongodb" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=java,python,c++&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cybersecurity&Cloud</strong></td>
+	<td><strong>Tools</strong></td>
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=linux,AWS,docker,kubernetes,&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,eclipseide,github,githubactions&theme=dark"></td>
+</tr>
+</table>
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
                                  
  <h2 align="center">📊 GitHub Stats</h2>
