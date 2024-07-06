@@ -4,18 +4,18 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>       
 <div align="center">
- About Me:
-- 🏦 I'm software Developer.
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I’m currently learning Data Structure and Algorithm from Coding Ninjas
-- 💻 I use daily: **.js**, **.java**, **.sql**
-- 👀 I am intrested in Devops.
-- 📖 I love to read and write thoughts, owner of page **@youva_comrades** [Instagram](https://www.instagram.com/youva_comrades/)
-- 💬 Talk to me about South Movies, Stories Poems & startups
-- 👯 We can connect to play some games of Chess ♟
-- 🎨 Painting is Life 
-- ✨ Fun fact: You are the one Who Knows you Best!!
+  <h2>About Me:</h2>
+  <p>🏦 I'm a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+  <p>📝 I’m currently learning Data Structure and Algorithm from Coding Ninjas</p>
+  <p>💻 I use daily: <strong>.js</strong>, <strong>.java</strong>, <strong>.sql</strong></p>
+  <p>👀 I am interested in DevOps</p>
+  <p>📖 I love to read and write thoughts, owner of the page <strong>@youva_comrades</strong> <a href="https://www.instagram.com/youva_comrades/">Instagram</a></p>
+  <p>💬 Talk to me about South Movies, Stories, Poems & startups</p>
+  <p>👯 We can connect to play some games of Chess ♟</p>
+  <p>🎨 Painting is Life</p>
+  <p>✨ Fun fact: You are the one who knows you best!!</p>
 </div>
+
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Technologies
