@@ -3,7 +3,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp)
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>       
-
+<div align="center">
  About Me:
 - 🏦 I'm software Developer.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -15,12 +15,12 @@
 - 👯 We can connect to play some games of Chess ♟
 - 🎨 Painting is Life 
 - ✨ Fun fact: You are the one Who Knows you Best!!
-
+</div>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 ## Technologies
  
-<table>
+<table align="center">
   <tr>
     <td><strong>Web Development</strong></td>
     <td><strong>Languages</strong></td>
@@ -50,15 +50,10 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-## Github Trophies
-![](https://github-profile-trophy.vercel.app/?username=uniquesp-code&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>         
-
 
  <h2 align="center">📊 GitHub Stats</h2>
 
- <table>
+ <table align="center">
     <thead>
       <tr>
         <th>
