@@ -26,23 +26,22 @@
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
 </p>
 
+                                 
+  <h1 align="center">🏆 My GitHub Stats 🏆</h1>
+ <table>
+    <thead>
+      <tr>
+        <th>
+          <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=uniquesp&show_icons=true&theme=chartreuse-dark"></p>
+        </th>
+        <th>
+          <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&layout=compact&theme=chartreuse-dark"></p>
+        </th>
+      </tr>
+    </thead>
+  </table>
 
-                                                        🏆 My Github Stats 🏆
-
-<table>
-      <thead>
-            <tr>
-                  <th>
-                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=uniquesp&show_icons=true&theme=chartreuse-dark"></p>
-                  </th>
-                  <th>
-                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&layout=compact&theme=chartreuse-dark"> </p>
-                  </th>
-            </tr>
-      </thead>
-</table>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniquesp&&theme=chartreuse-dark"> </p>
-
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniquesp&&theme=chartreuse-dark"></p>
 
 <!--
 ![uniquesp's github stats](https://github-readme-stats.spielers.vercel.app/api?username=uniquesp&show_icons=true&theme=chartreuse-dark)
