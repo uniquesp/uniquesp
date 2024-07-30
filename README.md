@@ -1,7 +1,4 @@
 <h2 align='center'> ✨Hello Jovenes✨</h2>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp)
-
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>       
 <div align="center">
   <h2>About Me:</h2>
