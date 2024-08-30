@@ -15,7 +15,7 @@
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-## Technologies
+<h2 align="center">🔮Technologies</h2>
  
 <table align="center">
   <tr>
