@@ -57,8 +57,8 @@
           <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=uniquesp&show_icons=true&theme=chartreuse-dark"></p>
         </th>
         <th>
-          <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&layout=compact&theme=chartreuse-dark"></p>
-        </th>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&layout=compact&theme=chartreuse-dark" alt="GitHub Streak Stats">
+      </th>
       </tr>
     </thead>
   </table>
