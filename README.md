@@ -5,7 +5,7 @@
   <p>🏦 I'm a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
   <p>📝 I’m currently learning Data Structure and Algorithm from Coding Ninjas</p>
   <p>💻 I use daily: <strong>.js</strong>, <strong>.java</strong>, <strong>.sql</strong></p>
-  <p>👀 I am interested in DevOps</p>
+  <p>👀 Always ready to learn new TechStack</p>
   <p>📖 I love to read and write thoughts, owner of the page <strong>@youva_comrades</strong> <a href="https://www.instagram.com/youva_comrades/">Instagram</a></p>
   <p>💬 Talk to me about South Movies, Stories, Poems & startups</p>
   <p>👯 We can connect to play some games of Chess ♟</p>
