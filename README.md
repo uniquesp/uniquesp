@@ -81,10 +81,10 @@
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
 <div  align="center">
-<h3 align="left">📬 Get in Touch</h3>
-<ul>
-  <li>Email: <a href="mailto:uniquesp13@gmail.com">uniquesp13@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/uniquesp/" target="_blank">sakshipharande</a></li>
-  <li>Portfolio: <a href="https://sakshi-portfolio-eight.vercel.app/" target="_blank">uniquesp.dev</a></li>
-</ul>
+    <h3>📬 Get in Touch</h3>
+    <ul>
+      <li>Email: <a href="mailto:uniquesp13@gmail.com">uniquesp13@gmail.com</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/uniquesp/" target="_blank">sakshipharande</a></li>
+      <li>Portfolio: <a href="https://sakshi-portfolio-eight.vercel.app/" target="_blank">uniquesp.dev</a></li>
+    </ul>
 </div>
