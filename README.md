@@ -23,7 +23,7 @@
     <td><strong>Languages</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap"></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap"></td>
     <td><img src="https://skillicons.dev/icons?i=java,javascript,cpp,python&theme=dark"></td>
   </tr>
   <tr>
@@ -31,16 +31,16 @@
     <td><strong>Tools</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=spring,express,react,nodejs,nextjs"></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,express,nodejs,react,nextjs"></td>
     <td><img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github&theme=dark"></td>
   </tr>
   <tr>
     <td><strong>Cloud Tech</strong></td>
-    <td></td>
+    <td><strong>Deployment Tools</strong></td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker&theme=dark"></td>
-    <td></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,GCP&theme=dark"></td>
+    <td><img src="https://skillicons.dev/icons?i=kubernetics,docker&theme=dark"></td>
   </tr>
 </table>
 
