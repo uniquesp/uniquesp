@@ -81,10 +81,32 @@
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
 <div align="center">
-    <h3>📬 Get in Touch</h3>
-    <ul>
-      <li>Email: <a href="mailto:uniquesp13@gmail.com">uniquesp13@gmail.com</a></li>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/uniquesp/" target="_blank">sakshipharande</a></li>
-      <li>Portfolio: <a href="https://sakshi-portfolio-eight.vercel.app/" target="_blank">uniquesp.dev</a></li>
-    </ul>
+    <h3>🌟 Projects</h3>
+  <ul>
+    <li>
+      <strong><a href="https://github.com/uniquesp/Book-Swap-Store" target="_blank">BookSwapStore</a></strong>: An online book buying and selling interface.
+    </li>
+    <li>
+      <strong><a href="https://github.com/uniquesp/cryptoverse" target="_blank">Cryptoverse</a></strong>: A react application to explore and track trending cryptocurrencies.
+    </li>
+    <li>
+      <strong><a href="https://github.com/uniquesp/GetDone" target="_blank">GetDone</a></strong>: A website for tracking daily tasks.
+    </li>
+    <li>
+      <strong><a href="https://github.com/uniquesp/FinTrack" target="_blank">FinTrack</a></strong>: A console-based application to manage personal finances.
+    <li>
+      <strong><a href="https://github.com/uniquesp/recipe_book" target="_blank">Recipe Book</a></strong>: A pixel-perfect landing page for cafe businesses with a modern design.
+    </li>
+  </ul>
 </div>
+
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
+<div class="links">
+<h3 align="center">📬 Get in Touch</h3>
+<ul  align="center">
+  <li>Email: <a href="mailto:uniquesp13@gmail.com">uniquesp13@gmail.com</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/uniquesp/" target="_blank">sakshipharande</a></li>
+  <li>Portfolio: <a href="https://sakshi-portfolio-eight.vercel.app/" target="_blank">uniquesp.dev</a></li>
+</ul>
+</div>
+
