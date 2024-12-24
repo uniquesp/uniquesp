@@ -1,5 +1,5 @@
 <h1 align='center'> Hey there 👋, I'm  Sakshi Pharande</h1>
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>       
+<p align="left"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>       
 <div align="left">
  <h3>👩‍💻 About Me</h3>
   <p>
@@ -8,7 +8,7 @@
     - 🔭 I’m currently working on improving my skills in full-stack development.</br>
     - 📚 I'm currently learning the Django and planning to explore DevOps next.</br>
     - 👀 Always ready to learn new TechStack</br>
-    - ⚡ In my free time, read and write story, thoughts. must check page :<a href="https://www.instagram.com/youva_comrades/"><strong>@youva_comrades</strong> </a></div>br
+    - ⚡ In my free time, read and write story, thoughts. must check page :<a href="https://www.instagram.com/youva_comrades/"><strong>@youva_comrades</strong> </a></br>
     - ✨ Fun fact: You are the one who knows you best!!</br>
   </p>
 </div>
