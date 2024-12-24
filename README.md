@@ -1,5 +1,5 @@
 <h1 align='center'> Hey there 👋, I'm  Sakshi Pharande</h1>
-<p align="left"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>       
+<p align="left"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3.5'/></p>       
 <div align="left">
  <h3>👩‍💻 About Me</h3>
   <p>
