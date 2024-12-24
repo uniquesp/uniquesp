@@ -93,7 +93,7 @@
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
 <div align="center">
-    <h2>GitHub Stats 📊</h2>
+    <h2>📊 GitHub Stats</h2>
     <table align="center">
         <tr>
             <td align="center">
