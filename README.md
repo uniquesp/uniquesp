@@ -18,7 +18,7 @@
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
 <div align="center">
     <h2>🔮Technologies</h2>
-    <table cellspacing="10">
+    <table align="center" cellspacing="10">
         <tr>
             <th colspan="2"><strong>Languages</strong></th>
         </tr>
@@ -47,7 +47,6 @@
                 <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github&theme=dark">
             </td>
         </tr>
-
         <tr>
             <th><strong>Cloud Tech</strong></th>
             <th><strong>Deployment Tools</strong></th>
