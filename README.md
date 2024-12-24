@@ -2,7 +2,7 @@
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5'/></p>       
 <div align="center">
  <h3>👩‍💻 About Me</h3>
-  <p align="left">
+  <p align="justify">
     I'm Sakshi from India.<br><br>
     - 🏦 I'm a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
     - 🔭 I’m currently working on improving my skills in full-stack development.</br>
