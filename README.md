@@ -72,14 +72,14 @@
     <table align="center">
         <thead>
             <tr>
-                <th>
+               <th>
                     <p align="center">
                         <img src="https://github-readme-stats.vercel.app/api?username=uniquesp&show_icons=true&theme=chartreuse-dark">
                     </p>
                 </th>
                 <th>
                     <p align="center">
-                        <img src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&background=black&hide_border=true">
+                        <img src="https://github-readme-stats.vercel.app/api?username=uniquesp&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true">
                     </p>
                 </th>
             </tr>
