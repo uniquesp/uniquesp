@@ -1,6 +1,6 @@
 <h1 align='center'> Hey there 👋, I'm  Sakshi Pharande</h1>
-<p align="left"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=8'/></p>       
-<div align="left">
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5'/></p>       
+<div align="center">
  <h3>👩‍💻 About Me</h3>
   <p>
     I'm Sakshi from India.<br><br>
