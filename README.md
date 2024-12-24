@@ -103,10 +103,10 @@
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
 <div class="links">
 <h3 align="center">📬 Get in Touch</h3>
-<ul  align="center">
-  <li>Email: <a href="mailto:uniquesp13@gmail.com">uniquesp13@gmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/uniquesp/" target="_blank">sakshipharande</a></li>
-  <li>Portfolio: <a href="https://sakshi-portfolio-eight.vercel.app/" target="_blank">uniquesp.dev</a></li>
+<ul style="list-style-position: inside; text-align: center; padding: 0; margin: 0 auto;">>
+  <li style="display: inline-block; width: 100%; margin: 5px 0;"></li>>Email: <a href="mailto:uniquesp13@gmail.com">uniquesp13@gmail.com</a></li>
+  <li style="display: inline-block; width: 100%; margin: 5px 0;"></li>>LinkedIn: <a href="https://www.linkedin.com/in/uniquesp/" target="_blank">sakshipharande</a></li>
+  <li style="display: inline-block; width: 100%; margin: 5px 0;"></li>>Portfolio: <a href="https://sakshi-portfolio-eight.vercel.app/" target="_blank">uniquesp.dev</a></li>
 </ul>
 </div>
 
