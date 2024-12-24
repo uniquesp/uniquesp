@@ -100,7 +100,7 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=uniquesp&theme=white&show_icons=true" alt="Sakshi's GitHub Stats">
             </td>
             <td align="center">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&background=ffffff&hide_border=true" alt="Sakshi's Streak">
+               <img src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&background=ffffff&hide_border=true" alt="Sakshi's Streak">
             </td>
         </tr>
     </table>
