@@ -80,7 +80,7 @@
 </div>
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
-<div  align="center">
+<div align="center">
     <h3>📬 Get in Touch</h3>
     <ul>
       <li>Email: <a href="mailto:uniquesp13@gmail.com">uniquesp13@gmail.com</a></li>
