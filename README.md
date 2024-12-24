@@ -2,7 +2,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp&" alt="Visitor Badge" />
 </div>
 <h1 align='center'> Hey there 👋, I'm Sakshi Pharande</h1>
-<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
 <div align="center">
     <h3>👩‍💻 About Me</h3>
     <p>
@@ -18,7 +18,7 @@
     </p>
 </div>
 
-<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
 <div align="center">
     <h2>🔮Technologies</h2>
     <table cellspacing="10">
@@ -65,7 +65,7 @@
     </table>
 </div>
 
-<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
 <div align="center">
     <h3>🌟 Projects</h3>
     <p> 
@@ -81,7 +81,7 @@
     </p>
 </div>
 
-<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
 <div align="center">
 <h3>📬 Get in Touch</h3>
 <p>
@@ -91,7 +91,7 @@
 <p>
 </div>
 
-<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
 <div align="center">
     <h2>📊 GitHub Stats</h2>
     <table align="center">
@@ -103,7 +103,7 @@
     </table>
 </div>
 
-<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
 <div align="center">
     <h3>Thank you for stopping by! 😊</h3>
 </div>
