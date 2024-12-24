@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp&" alt="Visitor Badge" />
+</div>
 <h1 align='center'> Hey there 👋, I'm Sakshi Pharande</h1>
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
 <div align="center">
