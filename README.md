@@ -79,7 +79,7 @@
                 </th>
                 <th>
                     <p align="center">
-                        <img src="https://github-readme-stats.vercel.app/api?username=uniquesp&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true">
+                        <img src="https://github-readme-streak-stats.herokuapp.com?user=uniquesp&theme=chartreuse-dark&hide_border=true">
                     </p>
                 </th>
             </tr>
