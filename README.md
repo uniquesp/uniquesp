@@ -93,17 +93,12 @@
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
 <div align="center">
-    <h2>GitHub Stats 📊</h2>
-    <table align="center">
-        <tr>
-            <td align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=uniquesp&theme=white&show_icons=true" alt="Sakshi's GitHub Stats">
-            </td>
-            <td align="center">
-               ![Sakshi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&background=ffffff&hide_border=true)
-            </td>
-        </tr>
-    </table>
+  ## GitHub Stats 📊
+
+|  |  |
+| --- | --- |
+| ![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uniquesp&theme=white&show_icons=true) | ![Sakshi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&background=ffffff&hide_border=true) |
+
 </div>
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
