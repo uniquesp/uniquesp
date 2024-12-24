@@ -1,16 +1,16 @@
-<h2 align='center'> 🚀✨Hello Everyone✨🚀</h2>
+<h1 align='center'> Hey there 👋, I'm  Sakshi Pharande</h1>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>       
-<div align="center">
-  <h2>About Me:</h2>
-  <p>🏦 I'm a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
-  <p>📝 I’m currently learning Data Structure and Algorithm from Coding Ninjas</p>
-  <p>💻 I use daily: <strong>.js</strong>, <strong>.java</strong>, <strong>.sql</strong></p>
-  <p>👀 Always ready to learn new TechStack</p>
-  <p>📖 I love to read and write thoughts, owner of the page <strong>@youva_comrades</strong> <a href="https://www.instagram.com/youva_comrades/">Instagram</a></p>
-  <p>💬 Talk to me about South Movies, Stories, Poems & startups</p>
-  <p>👯 We can connect to play some games of Chess ♟</p>
-  <p>🎨 Painting is Life</p>
-  <p>✨ Fun fact: You are the one who knows you best!!</p>
+<div align="left">
+ <h3>👩‍💻 About Me</h3>
+  <p>
+    I'm Sakshi from India.<br><br>
+    - 🏦 I'm a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
+    - 🔭 I’m currently working on improving my skills in full-stack development.</br>
+    - 📚 I'm currently learning the Django and planning to explore DevOps next.</br>
+    - 👀 Always ready to learn new TechStack</br>
+    - ⚡ In my free time, read and write story, thoughts. must check page :<a href="https://www.instagram.com/youva_comrades/"><strong>@youva_comrades</strong> </a></div>br
+    - ✨ Fun fact: You are the one who knows you best!!</br>
+  </p>
 </div>
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
