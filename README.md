@@ -65,28 +65,6 @@
     </table>
 </div>
 
-
-<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
-<div  align="center">
-    <h2>📊 GitHub Stats</h2>
-    <table align="center">
-        <thead>
-            <tr>
-               <th>
-                    <p align="center">
-                        <img src="https://github-readme-stats.vercel.app/api?username=uniquesp&show_icons=true&theme=chartreuse-dark">
-                    </p>
-                </th>
-                <th>
-                    <p align="center">
-                        <img src="https://github-readme-streak-stats.herokuapp.com?user=uniquesp&theme=chartreuse-dark&hide_border=true">
-                    </p>
-                </th>
-            </tr>
-        </thead>
-    </table>
-</div>
-
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
 <div align="center">
     <h3>🌟 Projects</h3>
@@ -111,6 +89,21 @@
   - LinkedIn: <a href="https://www.linkedin.com/in/uniquesp/" target="_blank">sakshipharande</a></br>
   - Portfolio: <a href="https://sakshi-portfolio-eight.vercel.app/" target="_blank">uniquesp.dev</a></br>
 <p>
+</div>
+
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
+<div align="center">
+    <h2>GitHub Stats 📊</h2>
+    <table align="center">
+        <tr>
+            <td align="center">
+                <img src="https://github-readme-stats.vercel.app/api?username=uniquesp&theme=white&show_icons=true" alt="Sakshi's GitHub Stats">
+            </td>
+            <td align="center">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&background=ffffff&hide_border=true" alt="Sakshi's Streak">
+            </td>
+        </tr>
+    </table>
 </div>
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&width=5' /></p>
