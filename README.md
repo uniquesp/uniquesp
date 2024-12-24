@@ -17,32 +17,52 @@
 
 <h2 align="center">🔮Technologies</h2>
  
-<table align="center">
+<table align="center" cellspacing="10">
   <tr>
-    <td><strong>Web Development</strong></td>
-    <td><strong>Languages</strong></td>
+    <th colspan="2"><strong>Web Development</strong></th>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=html,css,bootstrap"></td>
-    <td><img src="https://skillicons.dev/icons?i=java,javascript,cpp,python&theme=dark"></td>
+    <td colspan="2" align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap">
+    </td>
+  </tr>
+  
+  <tr>
+    <th colspan="2"><strong>Languages</strong></th>
   </tr>
   <tr>
-    <td><strong>Frameworks</strong></td>
-    <td><strong>Tools</strong></td>
+    <td colspan="2" align="center">
+      <img src="https://skillicons.dev/icons?i=java,javascript,cpp,python&theme=dark">
+    </td>
+  </tr>
+  
+  <tr>
+    <th><strong>Frameworks</strong></th>
+    <th><strong>Tools</strong></th>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=spring,express,nodejs,react,nextjs"></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github&theme=dark"></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring,express,nodejs,react,nextjs">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github&theme=dark">
+    </td>
+  </tr>
+  
+  <tr>
+    <th><strong>Cloud Tech</strong></th>
+    <th><strong>Deployment Tools</strong></th>
   </tr>
   <tr>
-    <td><strong>Cloud Tech</strong></td>
-    <td><strong>Deployment Tools</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=aws,GCP&theme=dark"></td>
-    <td><img src="https://skillicons.dev/icons?i=kubernetics,docker&theme=dark"></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,gcp&theme=dark">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kubernetes,docker&theme=dark">
+    </td>
   </tr>
 </table>
+
 
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
