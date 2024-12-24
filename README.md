@@ -18,6 +18,14 @@
 <h2 align="center">🔮Technologies</h2>
  
 <table align="center" cellspacing="10">
+   <tr>
+    <th colspan="2"><strong>Languages</strong></th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp&theme=dark">
+    </td>
+  </tr>
   <tr>
     <th colspan="2"><strong>Web Development</strong></th>
   </tr>
@@ -25,24 +33,14 @@
     <td colspan="2" align="center">
       <img src="https://skillicons.dev/icons?i=html,css,bootstrap">
     </td>
-  </tr>
-  
-  <tr>
-    <th colspan="2"><strong>Languages</strong></th>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://skillicons.dev/icons?i=java,javascript,cpp,python&theme=dark">
-    </td>
-  </tr>
-  
+  </tr>  
   <tr>
     <th><strong>Frameworks</strong></th>
     <th><strong>Tools</strong></th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=spring,express,nodejs,react,nextjs">
+      <img src="https://skillicons.dev/icons?i=spring,express,react,nextjs">
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github&theme=dark">
