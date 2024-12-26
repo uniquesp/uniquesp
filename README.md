@@ -20,6 +20,22 @@
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
 <div align="center">
+    <h3>🌟 Projects</h3>
+    <p> 
+        <strong><a href="https://github.com/uniquesp/Book-Swap-Store" target="_blank">BookSwapStore</a></strong>: An online book buying and selling interface.
+        </br>
+        <strong><a href="https://github.com/uniquesp/cryptoverse" target="_blank">Cryptoverse</a></strong>: A react application to explore and track trending cryptocurrencies.
+        </br>
+        <strong><a href="https://github.com/uniquesp/GetDone" target="_blank">GetDone</a></strong>: A website for tracking daily tasks.
+        </br>
+        <strong><a href="https://github.com/uniquesp/FinTrack" target="_blank">FinTrack</a></strong>: A console-based application to manage personal finances.
+        </br>
+        <strong><a href="https://github.com/uniquesp/recipe_book" target="_blank">Recipe Book</a></strong>: A pixel-perfect landing page for cafe businesses with a modern design.
+    </p>
+</div>
+
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
+<div align="center">
     <h2>🔮Technologies</h2>
     <table cellspacing="10">
         <tr>
@@ -63,22 +79,6 @@
             </td>
         </tr>
     </table>
-</div>
-
-<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
-<div align="center">
-    <h3>🌟 Projects</h3>
-    <p> 
-        <strong><a href="https://github.com/uniquesp/Book-Swap-Store" target="_blank">BookSwapStore</a></strong>: An online book buying and selling interface.
-        </br>
-        <strong><a href="https://github.com/uniquesp/cryptoverse" target="_blank">Cryptoverse</a></strong>: A react application to explore and track trending cryptocurrencies.
-        </br>
-        <strong><a href="https://github.com/uniquesp/GetDone" target="_blank">GetDone</a></strong>: A website for tracking daily tasks.
-        </br>
-        <strong><a href="https://github.com/uniquesp/FinTrack" target="_blank">FinTrack</a></strong>: A console-based application to manage personal finances.
-        </br>
-        <strong><a href="https://github.com/uniquesp/recipe_book" target="_blank">Recipe Book</a></strong>: A pixel-perfect landing page for cafe businesses with a modern design.
-    </p>
 </div>
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
