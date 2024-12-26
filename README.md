@@ -83,16 +83,6 @@
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
 <div align="center">
-<h3>📬 Get in Touch</h3>
-<p>
-  - Email: <a href="mailto:uniquesp13@gmail.com">uniquesp13@gmail.com</a></br>
-  - LinkedIn: <a href="https://www.linkedin.com/in/uniquesp/" target="_blank">sakshipharande</a></br>
-  - Portfolio: <a href="https://sakshi-portfolio-eight.vercel.app/" target="_blank">uniquesp.dev</a></br>
-<p>
-</div>
-
-<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
-<div align="center">
     <h2>📊 GitHub Stats</h2>
     <table align="center">
         <tr>
@@ -104,6 +94,16 @@
             </td>
         </tr>
     </table>
+</div>
+
+<p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
+<div align="center">
+<h3>📬 Get in Touch</h3>
+<p>
+  - Email: <a href="mailto:uniquesp13@gmail.com">uniquesp13@gmail.com</a></br>
+  - LinkedIn: <a href="https://www.linkedin.com/in/uniquesp/" target="_blank">sakshipharande</a></br>
+  - Portfolio: <a href="https://sakshi-portfolio-eight.vercel.app/" target="_blank">uniquesp.dev</a></br>
+<p>
 </div>
 
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
