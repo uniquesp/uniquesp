@@ -10,7 +10,7 @@
 
 <h1 align="center">
     <img 
-        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=400&height=70&duration=4000&lines=🎯Hi+There!+👋;+I'm+Sakshi+Pharande!;" 
+        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=400&height=70&duration=4000&lines=Hi+There!+👋+I+am+.+.+.+;+🌻Sakshi+Pharande!;" 
         alt="Typing SVG" 
         style="display: block; margin: 0 auto;" 
     />
