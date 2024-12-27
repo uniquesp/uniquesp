@@ -1,6 +1,11 @@
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp&" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=uniquesp&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <!-- Github Followers -->
+  <img src="https://img.shields.io/github/followers/uniquesp?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
+  <!-- Github Stars -->
+  <img src="https://img.shields.io/github/stars/uniquesp?label=Stars&logo=github&style=for-the-badge" alt="GitHub Stars" />
 </div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=400&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sakshi+Pharande!;" />
 </h1>
