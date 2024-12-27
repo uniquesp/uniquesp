@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp&style=for-the-badge" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp&label=Followers&logo=github&style=for-the-badge" alt="Profile Views" />
   <!-- Github Followers -->
   <img src="https://img.shields.io/github/followers/uniquesp?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
   <!-- Github Stars -->
@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=400&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sakshi+Pharande!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=400&height=70&duration=4000&lines=🎯Hi+There!+👋;+I'm+Sakshi+Pharande!;" />
 </h1>
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
 <div align="center">
