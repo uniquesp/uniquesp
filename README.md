@@ -20,7 +20,7 @@
 <div align="center">
     <h3>👩‍💻 About Me</h3>
     <p>
-        I'm Sakshi from India.<br><br>
+          📍 I'm Sakshi from India.<br><br>
         - 🏦 I'm a software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
             width="30"></br>
         - 🔭 I’m currently working on improving my skills in full-stack development.</br>
