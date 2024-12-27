@@ -9,8 +9,13 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=400&height=70&duration=4000&lines=🎯Hi+There!+👋;+I'm+Sakshi+Pharande!;" />
+    <img 
+        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=400&height=70&duration=4000&lines=🎯Hi+There!+👋;+I'm+Sakshi+Pharande!;" 
+        alt="Typing SVG" 
+        style="display: block; margin: 0 auto;" 
+    />
 </h1>
+
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
 <div align="center">
     <h3>👩‍💻 About Me</h3>
