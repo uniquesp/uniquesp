@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=uniquesp&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp&style=for-the-badge" alt="Profile Views" />
   <!-- Github Followers -->
   <img src="https://img.shields.io/github/followers/uniquesp?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
   <!-- Github Stars -->
