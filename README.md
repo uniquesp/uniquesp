@@ -1,7 +1,9 @@
 <div align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp&" alt="Visitor Badge" />
 </div>
-<h1 align='center'> Hey there 👋, I'm Sakshi Pharande</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sakshi+Pharande!;" />
+</h1>
 <p align="center"><img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5' /></p>
 <div align="center">
     <h3>👩‍💻 About Me</h3>
