@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp&label=Followers&logo=github&style=for-the-badge" alt="Profile Views" />
+<!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=uniquesp.uniquesp&label=Followers&logo=github&style=for-the-badge" alt="Profile Views" /> -->
+  <!-- Visitor Badge -->
+  <img src="https://img.shields.io/badge/Profile%20Views-123-blue?logo=github&style=for-the-badge" alt="Profile Views" />
   <!-- Github Followers -->
   <img src="https://img.shields.io/github/followers/uniquesp?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
   <!-- Github Stars -->
