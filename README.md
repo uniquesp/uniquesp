@@ -44,7 +44,6 @@
         </br>
         <strong><a href="https://github.com/uniquesp/FinTrack" target="_blank">FinTrack</a></strong>: A console-based application to manage personal finances.
         </br>
-        <strong><a href="https://github.com/uniquesp/recipe_book" target="_blank">Recipe Book</a></strong>: A modern dashboard for recipes.
     </p>
 </div>
 
