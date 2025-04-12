@@ -26,8 +26,7 @@
         - 🔭 I’m currently working on improving my skills in full-stack development.</br>
         - 📚 I'm currently learning the Django and planning to explore DevOps next.</br>
         - 👀 Always ready to learn new TechStack</br>
-        - ⚡ In my free time, read and write story, thoughts. must check page :<a
-            href="https://www.instagram.com/youva_comrades/"><strong>@youva_comrades</strong> </a></br>
+        - ⚡ In my free time, read and write story, thoughts. </a></br>
         - ✨ Fun fact: You are the one who knows you best!!</br>
     </p>
 </div>
