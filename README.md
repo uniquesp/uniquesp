@@ -55,7 +55,7 @@
         </tr>
         <tr>
             <td colspan="2" align="center">
-                <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp&theme=dark">
+                <img src="https://skillicons.dev/icons?i=java,ruby,python,javascript,cpp&theme=dark">
             </td>
         </tr>
         <tr>
@@ -72,7 +72,7 @@
         </tr>
         <tr>
             <td align="center">
-                <img src="https://skillicons.dev/icons?i=spring,express,react,nextjs">
+                <img src="https://skillicons.dev/icons?i=spring,express,react,rails">
             </td>
             <td align="center">
                 <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github&theme=dark">
@@ -102,7 +102,7 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=uniquesp&theme=white&show_icons=true" alt="Sakshi's GitHub Stats">
             </td>
             <td align="center">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&background=ffffff&hide_border=true" alt="Sakshi's Streak">
+                <img src="https://github-readme-streak-stats-eight.vercel.app/?user=uniquesp&background=ffffff&hide_border=true" alt="Sakshi's Streak" />
             </td>
         </tr>
     </table>
