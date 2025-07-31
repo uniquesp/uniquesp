@@ -90,7 +90,7 @@ const sakshi = {
 - 💳 Payment Integration
 - 📊 Inventory Management
 
-`Java` `Spring Boot` `React`
+`Java` `Servlet-JSP` `Javascript` `Mysql`  `Bootstrap`
 
 </td>
 <td align="center" width="50%">
@@ -120,7 +120,7 @@ const sakshi = {
 - 📈 Progress Visualization
 - 💾 Local Storage
 
-`JavaScript` `HTML/CSS` `LocalStorage`
+`ExpressJs` `NodeJS` `HTML/CSS` 
 
 </td>
 <td align="center" width="50%">
@@ -134,7 +134,7 @@ const sakshi = {
 - 📈 Financial Reports
 - 🎯 Goal Setting
 
-`Java` `Console App` `Data Management`
+`C++` `Console App` 
 
 </td>
 </tr>
