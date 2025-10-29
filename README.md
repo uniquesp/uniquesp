@@ -88,31 +88,6 @@ const sakshi = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uniquesp&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=4C9EEB&text_color=a9b1d6" alt="Top Languages" width="50%"/>
 </div>
 
-## 🎯 2025 Mission Control
-
-```mermaid
-graph TD
-    A[🚀 2025 Goals] --> B[🌱 Spring Boot Mastery]
-    A --> C[🤝 Open Source Contributions]  
-    A --> D[🤖 AI/ML Deep Dive]
-
-    
-    B --> B1[Microservices Architecture]
-    B --> B2[Advanced Spring Security]
-    
-    C --> C1[JavaScript Libraries]
-    C --> C2[React Ecosystem]
-    
-    D --> D1[Machine Learning Algorithms]
-    D --> D2[Agentic AI]
-
-    
-    style A fill:#4C9EEB,stroke:#fff,stroke-width:3px,color:#fff
-    style B fill:#9d4edd,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#f72585,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#4cc9f0,stroke:#fff,stroke-width:2px,color:#fff
-```
-
 ## 🤝 Let's Connect & Build Something Amazing!
 
 <div align="center">
